@@ -1,0 +1,10 @@
+/Builds/
+/JuceLibraryCode/
+*.vst3
+*.exe
+*.obj
+*.dll
+*.pdb
+*.vcxproj*
+*.sln
+*.DS_Store
